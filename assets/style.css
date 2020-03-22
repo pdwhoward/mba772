@@ -101,7 +101,12 @@ a, a:hover, a:focus {
 }
 
 #sidebar ul.list-group {
-    padding: 60px 0px;
+    padding-top: 60px;
+    padding-left: 15px;
+}
+
+#sidebar ul ul.list-group {
+    padding-top: 0px;
 }
 
 #sidebar ul p {
