@@ -185,6 +185,14 @@ a[data-toggle="collapse"] {
 	border-radius: 0px 15px 15px 0px;
 }
 
+#sidebar ul li a + ul {
+  display: none;
+}
+
+#sidebar ul li a.active + ul {
+  display: block;
+}
+
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
