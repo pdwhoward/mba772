@@ -205,13 +205,16 @@ a[data-toggle="collapse"] {
 ----------------------------------------------------- */
 
 #content {
-    width: calc(100% - 300px);
+    width: calc(100% - 300px);		  
     min-height: 100vh;
     transition: all 0.3s;
     position: absolute;
     top: 0;
     right: 0;
     padding-top: 30px;
+    padding-bottom: 65vh;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 #content.active {
