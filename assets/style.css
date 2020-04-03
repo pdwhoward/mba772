@@ -7,7 +7,7 @@ body {
 }
 
 body.dark-mode {
-  background-color: black;
+  background-color: #13294B;
   color: white;
 }
 
@@ -103,7 +103,7 @@ a, a:hover, a:focus {
 }
 
 #sidebar.dark-mode {
-    background: black;
+    background: #13294B;
 }
 
 #sidebar.active {
@@ -202,7 +202,7 @@ a[data-toggle="collapse"] {
 }
 
 #sidebar.dark-mode ul ul a {
-	background: black;
+	background: #13294B;
 	color: white;
 }
 
