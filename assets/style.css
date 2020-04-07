@@ -234,7 +234,7 @@ a[data-toggle="collapse"] {
 #content {
     width: calc(100% - 300px);		  
     min-height: 100vh;
-    transition: all 0.3s;
+    transition: all 0.3s , color 0s;
     position: absolute;
     top: 0;
     right: 0;
