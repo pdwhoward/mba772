@@ -175,10 +175,12 @@ a, a:hover, a:focus {
   margin-left: -1em;
   font-size: 1.3em;
   font-style: normal !important;
+  transition: color 0s !important;
 }
 
 #sidebar.dark-mode ul li a::before {
   color: white;
+  transition: color 0s !important;
 }
 
 #sidebar ul li a:hover {
